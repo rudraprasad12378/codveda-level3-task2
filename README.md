@@ -1,16 +1,30 @@
-# React + Vite
+# Codveda Level 3 Task 2 - Performance Optimization
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This project demonstrates performance optimization techniques in a React application using Vite.
 
-Currently, two official plugins are available:
+## Features
+- Responsive Design
+- Lazy Loading
+- React.lazy() and Suspense
+- Code Splitting
+- WebP Image Optimization
+- Gzip & Brotli Compression
+- Bundle Analysis
+- Lighthouse Performance Optimization
+- Vercel Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React
+- Vite
+- Bootstrap
+- React Lazy Load Image Component
+- Vite Plugin Compression
+- Rollup Plugin Visualizer
 
-## React Compiler
+## Lighthouse Results
+- Performance: 100
+- Best Practices: 100
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+https://codveda-level3-task2-kappa.vercel.app/
